@@ -79,7 +79,7 @@ use constant {
 
      # *** other ***
      SITENAME_DEFAULT => 'default',
-     MAX_BUFFER_LEN => 65536,
+     MAX_BUFFER_LEN => 131072,
      MAX_REQUEST_LEN => 256,
      KEY_ITEMS_NUM => 'items_num',
      TRUE => 1,
